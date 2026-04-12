@@ -19,7 +19,7 @@ const sdgs = [
   { num: 13, title: "Climate Action", desc: "Every gram of CO₂ reduced helps fight the climate crisis." },
 ];
 
-const team = ["Arya Sharma", "Priya Deshmukh", "Rohan Patil", "Sneha Kulkarni"];
+const team = ["Sakshi Shewale", "Tejal Kadam", "Sourabh Jain", "Prashant Dandade"];
 
 const PledgePage = () => {
   const [selected, setSelected] = useState<Set<number>>(new Set());

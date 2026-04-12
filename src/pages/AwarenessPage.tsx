@@ -72,15 +72,18 @@ const AwarenessPage = () => (
       </div>
     </div>
 
-    {/* PCMC local context */}
-    <h2 className="text-2xl font-bold text-foreground mb-5">Local Context: PCMC, Pune</h2>
+    {/* Alandi local context */}
+    <h2 className="text-2xl font-bold text-foreground mb-5">Local Context: Alandi, Pune</h2>
     <div className="bg-card border rounded-2xl p-6 shadow-card">
       <ul className="space-y-2 text-sm text-muted-foreground list-disc list-inside">
-        <li>Pimpri-Chinchwad has over <strong className="text-foreground">22 lakh registered vehicles</strong> as of 2023.</li>
-        <li>Two-wheelers account for <strong className="text-foreground">~70%</strong> of all vehicles on PCMC roads.</li>
-        <li>PCMC's AQI frequently exceeds <strong className="text-foreground">150 (Unhealthy)</strong> during winter months.</li>
-        <li>The Pune Metro expansion aims to reduce road congestion by <strong className="text-foreground">30%</strong> by 2030.</li>
-        <li>PCMC offers <strong className="text-foreground">EV subsidies</strong> and has installed 50+ public charging stations.</li>
+        <li>Alandi is a major pilgrimage town on the banks of the <strong className="text-foreground">Indrayani River</strong>, attracting lakhs of devotees annually.</li>
+        <li>The Bhosari–Alandi road witnesses <strong className="text-foreground">heavy vehicle congestion</strong> daily, contributing to high emissions.</li>
+        <li>Alandi faces a <strong className="text-foreground">dual pollution crisis</strong> — air pollution from traffic & garbage fires, and water pollution with toxic foam on the Indrayani.</li>
+        <li>The town's AQI frequently crosses <strong className="text-foreground">150+ (Unhealthy)</strong> during winter and festival seasons.</li>
+        <li>MPCB has proposed an <strong className="text-foreground">Environmental Improvement Action Plan</strong> specifically for Alandi to tackle pollution.</li>
+        <li>Two-wheelers and auto-rickshaws dominate local transport, with <strong className="text-foreground">limited public transit</strong> options for residents.</li>
+        <li>During the annual <strong className="text-foreground">Alandi Wari</strong> pilgrimage, vehicular emissions spike significantly due to massive crowds and bus traffic.</li>
+        <li>Pune Metro's planned expansion could help reduce road congestion on the <strong className="text-foreground">Pune–Alandi corridor</strong> in the future.</li>
       </ul>
     </div>
   </div>
