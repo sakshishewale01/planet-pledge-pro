@@ -1,11 +1,10 @@
-````md
+
 # 🌍 Planet Pledge Pro - CO₂ Emission Tracker
 
 A web-based **Carbon Footprint Monitoring System** developed as an **Environmental Studies (EVS) project**.
 
 The application helps users understand, calculate, and monitor their carbon emissions through an interactive and user-friendly dashboard.
 
----
 
 ## 📌 Project Overview
 
@@ -15,7 +14,7 @@ This project focuses on creating awareness about personal carbon footprints by p
 
 The system allows users to record their activities and analyze their estimated carbon footprint through meaningful insights.
 
----
+
 
 # ✨ Features
 
@@ -42,7 +41,6 @@ The system allows users to record their activities and analyze their estimated c
 - Promotes eco-friendly decisions
 - Helps users understand their contribution towards climate change
 
----
 
 # 🛠️ Technologies Used
 
@@ -63,7 +61,6 @@ The system allows users to record their activities and analyze their estimated c
 - Lovable AI Platform
 - GitHub
 
----
 
 # 📂 Project Structure
 
@@ -95,7 +92,7 @@ The main objective of this project is to:
 - Provide a digital solution for monitoring environmental impact
 - Demonstrate the role of technology in solving environmental problems
 
----
+
 
 # 🌎 Future Enhancements
 
@@ -105,13 +102,12 @@ The main objective of this project is to:
 - Mobile application version
 - Integration with IoT environmental sensors
 
----
+
 
 # 👩‍💻 Developed As
 
 **Environmental Studies (EVS) Project**
 
 **Project Name:** Planet Pledge Pro - CO₂ Emission Tracker
-````
 
 
