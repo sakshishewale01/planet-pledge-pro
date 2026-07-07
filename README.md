@@ -52,7 +52,7 @@ The system allows users to record their activities and analyze their estimated c
 
 
 ## 📂 Project Structure
-
+---
 planet-pledge-pro
 │
 ├── public/
@@ -67,7 +67,7 @@ planet-pledge-pro
 ├── vite.config.js
 ├── README.md
 └── .gitignore
-
+---
 
 ## 🎯 Objective
 
